@@ -10,4 +10,4 @@ Screenshot:
 
 ### Install
 
-Go to the Windows Terminal (If you haven't already download it ![here](https://aka.ms/terminal))
+Go to the Windows Terminal (If you haven't already download it [here](https://aka.ms/terminal))
