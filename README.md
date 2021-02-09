@@ -43,4 +43,4 @@ Locate the schemes section and paste the following code inside it :
 
 To add the themes reopen the settings file, then locate the profile you want to edit.
 
-Just add or modify the `colorScheme` property to `colorScheme : "Frost Powershell"`.
+Just add or modify the `colorScheme` property to `"colorScheme" : "Frost Powershell"`.
